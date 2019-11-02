@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37961" started-at="2019-11-02T12:24:21 EDT" finished-at="2019-11-02T12:24:59 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37961" started-at="2019-11-02T12:24:21 EDT" finished-at="2019-11-02T12:24:59 EDT">
+      <class name="ClickAcademyPackage.CallerClass">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ClickAcademyPackage.CallerClass@72b6cbcc]" name="beforeTest" is-config="true" duration-ms="6581" started-at="2019-11-02T12:24:21 EDT" finished-at="2019-11-02T12:24:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:ClickAcademyPackage.CallerClass@72b6cbcc]" name="TestCase1" duration-ms="18052" started-at="2019-11-02T12:24:28 EDT" finished-at="2019-11-02T12:24:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:ClickAcademyPackage.CallerClass@72b6cbcc]" name="TestCase2" duration-ms="2575" started-at="2019-11-02T12:24:46 EDT" finished-at="2019-11-02T12:24:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="TestCase3()[pri:0, instance:ClickAcademyPackage.CallerClass@72b6cbcc]" name="TestCase3" duration-ms="9948" started-at="2019-11-02T12:24:48 EDT" finished-at="2019-11-02T12:24:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ClickAcademyPackage.CallerClass@72b6cbcc]" name="afterTest" is-config="true" duration-ms="769" started-at="2019-11-02T12:24:58 EDT" finished-at="2019-11-02T12:24:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ClickAcademyPackage.CallerClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
